@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/restart_menu"
+        android:title="再来一局"
+        />
+    <item android:id="@+id/regret_menu"
+        android:title="悔棋一步"
+        />
+</menu>
